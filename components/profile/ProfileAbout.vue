@@ -17,9 +17,13 @@
         <div class="col-md-6 col-sm-12">
           <div class="about-wrapper__info load-hidden">
             <p class="about-wrapper__info-text">
-              大学毕业后，我在一家检测机构从事基因检测的工作。
-              由于学过一段时间绘画，有一定的绘画基础并且对 UI
-              设计有着浓厚的兴趣。 工作一年后，决定离职学习 UI 设计。
+              我是一名拥有 4 年 UI 设计与 6 年平面/运营设计经验的设计师，擅长将用户需求转化为高效且优化的界面方案。热爱互联网产品设计，自学成才，兼具成熟视觉审美与系统化交互思考能力。
+            </p>
+            <p class="about-wrapper__info-text">
+              熟练掌握 Figma、Mastergo、Sketch 等主流设计工具，了解 HTML/CSS 及前端设计规范（Ant Design / Element Design），能够在为企业提供定制设计的同时优化主版本，实现视觉与体验的统一与提升。
+            </p>
+            <p class="about-wrapper__info-text">
+              擅长将 AI 融入日常设计工作，提升效率与创意思路，并训练 AI 成为深度合作伙伴，助力设计方案更快落地、更具创新性。
             </p>
             <p class="about-wrapper__info-text">
               我一直在为成为一个优秀的 UI 设计师而努力。
@@ -29,7 +33,7 @@
                 rel="noreferrer"
                 target="_blank"
                 class="cta-btn cta-btn--resume"
-                :href="`${staticFilePrefix}/resume2.pdf`"
+                :href="`${staticFilePrefix}/resume3.pdf`"
               >
                 我的简历
               </a>
